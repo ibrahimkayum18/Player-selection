@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "name": "John Smith",
+      "img": "https://tse4.explicit.bing.net/th?id=OIP.WAelvrJyIJI-nNkryo2ZzgHaEz&pid=Api&P=0&h=220",
+      "salary": 1000000,
+      "role": "Batsman",
+      "strike_rate": 85.23,
+      "total_match": 120,
+      "nationality": "England"
+    },
+    {
+      "id": 2,
+      "name": "Sakib-al Hasan",
+      "img": "https://tse3.mm.bing.net/th?id=OIP.ayj06zr-iEKkzzLuHRv2xgHaEK&pid=Api&P=0&h=220",
+      "salary": 850000,
+      "role": "All-Rounder",
+      "strike_rate": 112.54,
+      "total_match": 85,
+      "nationality": "Bangladesh"
+    },
+    {
+      "id": 4,
+      "name": "Mohammed Rizwan",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.yAOu7ZHzPK62geKs57mgwAHaEo&pid=Api&P=0&h=220",
+      "salary": 950000,
+      "role": "Batsman",
+      "strike_rate": 98.76,
+      "total_match": 110,
+      "nationality": "Pakistan"
+    },
+    {
+      "id": 6,
+      "name": "Carlos Rodriguez",
+      "img": "https://tse1.mm.bing.net/th?id=OIP.kXIn-1UXiaCGi0spDKt0nwHaE7&pid=Api&P=0&h=220",
+      "salary": 720000,
+      "role": "Bowler",
+      "strike_rate": 31.54,
+      "total_match": 60,
+      "nationality": "Australia"
+    },
+    {
+      "id": 10,
+      "name": "AB Devillers",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.mGpWRr-F6g-nGNEUWW4bqAHaEZ&pid=Api&P=0&h=220",
+      "salary": 930000,
+      "role": "Batsman",
+      "strike_rate": 97.65,
+      "total_match": 115,
+      "nationality": "South Africa"
+    },
+    {
+      "id": 12,
+      "name": "Chris Gayle",
+      "img": "https://tse1.mm.bing.net/th?id=OIP.16I8ZsENjpwbmZuFcQHeHgHaFj&pid=Api&P=0&h=220",
+      "salary": 710000,
+      "role": "Bowler",
+      "strike_rate": 32.45,
+      "total_match": 55,
+      "nationality": "West Indies"
+    },
+    {
+      "id": 14,
+      "name": "Dilshan",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.eM2dxQR72Lude6AOXkJQiAHaFL&pid=Api&P=0&h=220",
+      "salary": 940000,
+      "role": "All-Rounder",
+      "strike_rate": 112.98,
+      "total_match": 110,
+      "nationality": "India"
+    },
+    {
+      "id": 16,
+      "name": "David Warner",
+      "img": "https://tse1.mm.bing.net/th?id=OIP.L9t1nLMEM6SqzUcs1JQF7gHaE8&pid=Api&P=0&h=220",
+      "salary": 870000,
+      "role": "Batsman",
+      "strike_rate": 88.45,
+      "total_match": 105,
+      "nationality": "Australia"
+    },
+    {
+      "id": 18,
+      "name": "Jos Buttler",
+      "img": "https://tse1.mm.bing.net/th?id=OIP.0SnUn2j5E7tC2vAebojQBwHaFN&pid=Api&P=0&h=220",
+      "salary": 820000,
+      "role": "Bowler",
+      "strike_rate": 29.21,
+      "total_match": 70,
+      "nationality": "England"
+    },
+    {
+      "id": 20,
+      "name": "Sachin Tendulkar",
+      "img": "https://tse1.mm.bing.net/th?id=OIP.R2QLfqZmvCwKzI7xksYIPgHaEK&pid=Api&P=0&h=220",
+      "salary": 980000,
+      "role": "All-Rounder",
+      "strike_rate": 121.76,
+      "total_match": 115,
+      "nationality": "India"
+    },
+    {
+      "id": 22,
+      "name": "ricky ponting",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.znegO0x3A9J5s3ZtjCqGTQHaEl&pid=Api&P=0&h=220",
+      "salary": 860000,
+      "role": "Batsman",
+      "strike_rate": 95.67,
+      "total_match": 100,
+      "nationality": "Australia"
+    },
+    {
+      "id": 24,
+      "name": "Jonny Baristow",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.ouRVa2PSZe9mQWJd_hcuQgHaFj&pid=Api&P=0&h=220",
+      "salary": 780000,
+      "role": "Bowler",
+      "strike_rate": 30.98,
+      "total_match": 80,
+      "nationality": "England"
+    },
+    {
+      "id": 26,
+      "name": "Mashrafe Bin Martuza",
+      "img": "https://tse3.mm.bing.net/th?id=OIP.VRwpPH6mHUk_XETCee03vgHaFj&pid=Api&P=0&h=220",
+      "salary": 910000,
+      "role": "All-Rounder",
+      "strike_rate": 108.32,
+      "total_match": 90,
+      "nationality": "Bangladesh"
+    },
+    {
+      "id": 28,
+      "name": "Andrew Russel",
+      "img": "https://tse3.mm.bing.net/th?id=OIP.gIYebDYLVSUYOeTiDI442QHaGA&pid=Api&P=0&h=220",
+      "salary": 740000,
+      "role": "Batsman",
+      "strike_rate": 99.76,
+      "total_match": 95,
+      "nationality": "West Indies"
+    },
+    {
+      "id": 30,
+      "name": "Mushfiqur Rahim",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.AEc-iAfRq90g3xJBLpCDBQHaEo&pid=Api&P=0&h=220",
+      "salary": 900000,
+      "role": "Bowler",
+      "strike_rate": 32.12,
+      "total_match": 75,
+      "nationality": "Bangladesh"
+    }
+  ]
+  
